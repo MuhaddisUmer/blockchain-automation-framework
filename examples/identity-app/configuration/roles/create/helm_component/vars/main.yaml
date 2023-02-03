@@ -1,0 +1,4 @@
+helm_templates:
+  webserver: webserver.tpl
+  crowdkeep: university.tpl
+  partner: employer.tpl
